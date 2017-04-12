@@ -196,7 +196,6 @@
     <Content Include="Views\Home\Directions.cshtml" />
     <Content Include="Views\Contact\Haseeb.cshtml" />
     <Content Include="Views\Contact\Amer.cshtml" />
-    <Content Include="Views\Contact\Zaki.cshtml" />
     <Content Include="Views\Contact\Fayyaz.cshtml" />
     <Content Include="Views\Contact\Taiyyab.cshtml" />
     <Content Include="Views\Contact\Rizwan.cshtml" />
