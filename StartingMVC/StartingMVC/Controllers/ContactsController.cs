@@ -14,9 +14,7 @@ namespace StartingMVC.Controllers
         {
             Profile viewProfile = new Profile();
             viewProfile.Username = Username;
-            viewProfile.FirstName = "Jooe";
-            viewProfile.LastName = "Schmoe";
-
+            
             return View();
         }
     }

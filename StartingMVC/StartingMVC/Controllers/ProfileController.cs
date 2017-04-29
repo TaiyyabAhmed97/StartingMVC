@@ -33,6 +33,12 @@ namespace StartingMVC.Controllers
                     lol.FirstName = "Rizwan";
                     lol.LastName = "Hassan";
                     break;
+
+                case "Zubi":
+                    lol.Username = id;
+                    lol.FirstName = "Zubair";
+                    lol.LastName = "Khan";
+                    break;
             }
 
 
